@@ -1,0 +1,50 @@
+		<!-- MAIN PANEL -->
+		<div ng-app="CloudApp" id="main" role="main">
+
+			<!-- RIBBON -->
+			<div id="ribbon">
+			</div>
+			<!-- END RIBBON -->
+
+			<!-- MAIN CONTENT -->
+			<div id="content" ng-controller="sensorCtrl">
+<!-- 				<div class="row">
+		            <div class="form-group col-md-3 nopadding-left">
+		                <label for="sel1">Tenant</label>
+		                <select name="tenantID" class="form-control" id="filterUser" ng-click="clickTenant()" ng-model="tenantID">
+		                		<option selected="selected">Chose tenant</option>
+		                    	<option value="{{tenant.tenantID}}" ng-repeat="tenant in tenants.data" ng-selected="tenantID===tenantID.tenantID">{{tenant.tenantName}}</option> 
+		                </select>
+
+		                <button ng-click="searchtest()">Search</button>
+		            </div>
+       			 </div> -->
+				<div class="row">											
+					<div id="sensorTable">
+						<table  class="table table-striped table-bordered" width="100%" datatable="" dt-options="dtOptions" dt-columns="dtColumns" dt-instance="dtInstance" >
+					</table>
+					</div>
+				</div>
+				<div sendor-detail>
+					
+				</div>
+			</div>
+		</div>
+
+		<script src="js/libs/jquery.min.js"></script>
+		<link rel="stylesheet" type="text/css" href="css/jquery.dataTables.min.css">
+		<link rel="stylesheet" type="text/css" href="css/datatables.bootstrap.min.css">
+		<script src="js/libs/angular.min.js"></script>
+
+		<script src="js/libs/jquery-ui.min.js"></script>
+
+		<script type="text/javascript" src="js/libs/jquery.dataTables.min.js"></script>
+		<!-- Load file JS : controller -->
+		<script type="text/javascript" src="Angular/js/app.js"></script>
+		<script type="text/javascript" src="Angular/js/controllers/sensorCtrl.js"></script>
+		<script type="text/javascript" src="Angular/js/services/ListTenant.js"></script>
+		<script type="text/javascript" src="js/libs/angular-datatables.min.js"></script>
+		<script src="https://rawgithub.com/eligrey/FileSaver.js/master/FileSaver.js" type="text/javascript"></script>
+
+
+		

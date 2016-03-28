@@ -1,0 +1,254 @@
+MacAddress,SensorType,IP,User,Group,Tenant
+10:bv:33:ui:98:uh:42:tg,Gas sensor,91.143.199.80,vnp,workplace3,free-m
+11:dq:55:hx:31:hw:85:ig,Gas sensor,113.255.49.49,vnp,workplace3,free-m
+11:zl:70:cz:52:ez:89:ec,Gas sensor,41.0.181.251,vnp,workplace3,free-m
+12:ha:40:mp:14:as:78:ju,Gas sensor,118.97.137.150,vnp,workplace2,free-m
+12:wk:37:ow:86:on:29:ux,Gas sensor,41.0.181.251,vnp,workplace3,free-m
+12:xh:21:zr:38:rf:28:fe,Gas sensor,203.71.220.140,vnp,workplace2,free-m
+12:zt:50:sr:54:pl:54:ka,Gas sensor,85.17.209.180,vnp,workplace1,free-m
+13:cc:68:jz:45:rq:27:xm,Gas sensor,118.97.137.150,vnp,workplace2,free-m
+13:gq:83:um:81:fg:37:uw,Gas sensor,41.160.223.252,vnp,workplace1,free-m
+13:tl:55:hd:73:ah:62:kv,Gas sensor,202.167.248.186,vnp,workplace4,free-m
+15:aj:11:ao:13:wl,H2S,41.0.181.251,vnp,workplace_1,free-m
+15:ft:46:nv:50:wh:22:vv,Gas sensor,118.97.137.150,vnp,workplace3,free-m
+15:nm:67:lk:26:op:29:av,Gas sensor,201.219.181.107,vnp,workplace3,free-m
+15:uo:27:nb:76:dc:75:sj,Gas sensor,41.160.223.252,vnp,workplace1,free-m
+15:wm:15:gf:13:qm:93:jz,Gas sensor,41.160.223.252,vnp,workplace2,free-m
+15:xc:78:ue:37:sx:31:rk,Gas sensor,183.111.169.205,vnp,workplace2,free-m
+15:yz:48:qb:38:df:36:ee,Gas sensor,41.0.181.251,vnp,workplace3,free-m
+16:uh:37:ng:46:fl:42:ib,Gas sensor,203.71.220.140,vnp,workplace1,free-m
+16:uy:68:fg:60:ef:95:kd,Gas sensor,41.0.181.251,vnp,workplace1,free-m
+16:vq:31:fq:61:mg:91:bj,Gas sensor,183.111.169.205,vnp,workplace2,free-m
+17:cf:19:pb:62:oa:89:mm,Gas sensor,203.71.220.140,vnp,workplace4,free-m
+17:qp:49:wa:27:cv:14:xt,Gas sensor,2.139.222.95,vnp,workplace3,free-m
+18:kt:32:ic:84:sy,H2S,172.16.115.2,vnp,workplace4,free-m
+18:su:53:ad:92:fg:66:yt,Gas sensor,85.17.209.180,vnp,workplace2,free-m
+18:yh:24:bm:82:fr:52:js,Gas sensor,41.160.223.252,vnp,workplace3,free-m
+19:df:58:ps:50:ws:65:bw,Gas sensor,115.159.5.247,vnp,workplace3,free-m
+19:gk:52:hs:61:gp:58:rj,Gas sensor,192.99.54.41,vnp,workplace2,free-m
+20:az:28:vq:12:oz,H2S,113.255.49.49,vnp,workplace_1,free-m
+20:db:47:ie:95:ky:71:io,Gas sensor,203.71.220.140,vnp,workplace3,free-m
+20:ga:92:ny:76:re:60:ga,Gas sensor,41.0.181.251,vnp,workplace3,free-m
+20:si:30:kg:24:vi:99:jz,Gas sensor,113.255.49.49,vnp,workplace1,free-m
+21:ie:96:wd:72:uu:42:rq,Gas sensor,41.0.181.251,vnp,workplace2,free-m
+21:jm:12:bs:88:pv:80:sa,Gas sensor,203.71.220.140,vnp,workplace3,free-m
+21:tv:23:nd:61:fg:65:wf,Gas sensor,2.139.222.95,vnp,workplace3,free-m
+21:yd:36:jm:72:pa:98:ou,Gas sensor,202.167.248.186,vnp,workplace1,free-m
+22:da:65:pn:31:rs:30:vq,Gas sensor,203.71.220.140,vnp,workplace1,free-m
+22:la:76:gp:13:di:63:vz,Gas sensor,85.17.209.180,vnp,workplace1,free-m
+22:pt:13:qg:47:fd:44:vx,Gas sensor,104.236.220.70,vnp,workplace2,free-m
+22:yi:19:pj:49:qq:61:qs,Gas sensor,41.160.223.252,vnp,workplace3,free-m
+23:gd:76:tf:58:ou:45:gx,Gas sensor,91.143.199.80,vnp,workplace3,free-m
+23:iy:49:gu:88:fi:76:yq,Gas sensor,41.160.223.252,vnp,workplace2,free-m
+23:ro:62:px:75:tx:61:xz,Gas sensor,85.17.209.180,vnp,workplace3,free-m
+24:kz:74:lz:20:fj:49:ze,Gas sensor,203.71.220.140,vnp,workplace4,free-m
+24:um:80:al:71:mh:26:kq,Gas sensor,192.99.54.41,vnp,workplace3,free-m
+25:aj:81:pw:34:eu:95:tm,Gas sensor,192.99.54.41,vnp,workplace2,free-m
+25:ni:33:dc:11:qf:43:do,Gas sensor,115.159.5.247,vnp,workplace3,free-m
+25:nu:77:gn:52:hp:96:ms,Gas sensor,183.111.169.205,vnp,workplace2,free-m
+25:xn:86:wr:50:gw:61:tr,Gas sensor,202.167.248.186,vnp,workplace1,free-m
+26:vx:27:ob:91:lh:42:zs,Gas sensor,91.143.199.80,vnp,workplace4,free-m
+26:xt:76:bf:93:ku:45:rf,Gas sensor,201.219.181.107,vnp,workplace3,free-m
+27:gf:58:ze:19:yw:56:ro,Gas sensor,41.160.223.252,vnp,workplace1,free-m
+27:mc:18:yw:92:yd:13:td,Gas sensor,91.143.199.80,vnp,workplace4,free-m
+28:dw:42:bd:19:vm:68:oq,Gas sensor,91.143.199.80,vnp,workplace3,free-m
+28:pw:15:rg:66:yd:15:oj,Gas sensor,104.236.220.70,vnp,workplace3,free-m
+29:ck:20:za:67:gk,H2S,115.159.5.247,vnp,workplace_1,free-m
+29:he:64:re:98:nh:42:ml,Gas sensor,113.255.49.49,vnp,workplace1,free-m
+29:lj:25:qs:70:jn:97:fi,Gas sensor,85.17.209.180,vnp,workplace1,free-m
+29:yy:47:zk:24:ie:68:ud,Gas sensor,201.219.181.107,vnp,workplace4,free-m
+30:hu:50:tf:71:vl:24:pt,Gas sensor,201.219.181.107,vnp,workplace4,free-m
+30:xb:41:xh:63:my:58:ih,Gas sensor,183.111.169.205,vnp,workplace4,free-m
+31:gv:70:zt:48:ur:83:jo,Gas sensor,85.17.209.180,vnp,workplace1,free-m
+31:nz:37:dg:96:si:80:cs,Gas sensor,192.99.54.41,vnp,workplace4,free-m
+31:si:96:nx:18:ng:50:mm,Gas sensor,201.219.181.107,vnp,workplace2,free-m
+31:vp:73:gy:53:ae:97:id,Gas sensor,41.0.181.251,vnp,workplace3,free-m
+32:py:71:vz:74:jm:87:dq,Gas sensor,2.139.222.95,vnp,workplace1,free-m
+32:un:60:dw:94:xz:39:ul,Gas sensor,201.219.181.107,vnp,workplace3,free-m
+32:wa:21:ek:30:fj:21:xk,Gas sensor,192.99.54.41,vnp,workplace2,free-m
+33:zi:63:hl:37:qr:77:ik,Gas sensor,183.111.169.205,vnp,workplace4,free-m
+33:zk:40:qq:51:sl:14:cm,Gas sensor,192.99.54.41,vnp,workplace2,free-m
+33:zk:64:sh:17:tz:88:gx,Gas sensor,85.17.209.180,vnp,workplace2,free-m
+34:iv:82:sv:32:zi:21:qz,Gas sensor,85.17.209.180,vnp,workplace4,free-m
+34:qm:71:bh:86:bq:42:uq,Gas sensor,203.71.220.140,vnp,workplace1,free-m
+35:bq:29:qt:29:yg:46:xy,Gas sensor,2.139.222.95,vnp,workplace3,free-m
+35:kq:70:ho:40:ye,H2S,172.16.115.2,vnp,workplace1,free-m
+35:lu:19:vk:90:cx:63:mr,Gas sensor,202.167.248.186,vnp,workplace2,free-m
+35:rp:50:lc:16:yn:86:bm,Gas sensor,118.97.137.150,vnp,workplace4,free-m
+35:sz:49:zr:87:nz:18:ta,Gas sensor,41.160.223.252,vnp,workplace3,free-m
+36:ag:17:xe:24:sf:12:xr,Gas sensor,91.143.199.80,vnp,workplace1,free-m
+36:ll:42:jg:65:ui:65:jh,Gas sensor,41.0.181.251,vnp,workplace3,free-m
+36:xp:53:we:48:ki:83:za,Gas sensor,183.111.169.205,vnp,workplace1,free-m
+37:yj:79:um:68:yw:54:uc,Gas sensor,192.99.54.41,vnp,workplace2,free-m
+37:zz:31:yv:50:cb,H2S,172.16.116.5,tam,workplace_2,tam
+38:mf:52:lx:68:ir:42:cl,Gas sensor,201.219.181.107,vnp,workplace2,free-m
+38:mp:34:ey:80:tn:30:dt,Gas sensor,202.167.248.186,vnp,workplace2,free-m
+39:gf:32:sa:34:nx:40:mi,Gas sensor,41.0.181.251,vnp,workplace1,free-m
+39:jz:94:pr:11:gz:11:fw,Gas sensor,2.139.222.95,vnp,workplace2,free-m
+39:yj:71:ub:33:fz:72:cl,Gas sensor,41.160.223.252,vnp,workplace3,free-m
+39:zh:54:me:69:xo:23:fx,Gas sensor,202.167.248.186,vnp,workplace1,free-m
+40:rb:93:yb:58:pt:17:qa,Gas sensor,2.139.222.95,vnp,workplace3,free-m
+41:aw:93:aw:73:sa:74:mq,Gas sensor,41.0.181.251,vnp,workplace1,free-m
+41:gk:12:ez:87:qy,H2S,113.255.49.49,vnp,workplace_1,free-m
+41:ld:57:id:75:pq:24:yw,Gas sensor,91.143.199.80,vnp,workplace2,free-m
+41:mn:95:ai:15:fg:64:wf,Gas sensor,118.97.137.150,vnp,workplace2,free-m
+42:fo:33:ls:33:jq:53:ht,Gas sensor,192.99.54.41,vnp,workplace4,free-m
+42:gf:47:ok:91:zn:54:ci,Gas sensor,91.143.199.80,vnp,workplace4,free-m
+42:il:48:nw:12:er,H2S,172.16.117.15,vnp,workplace_1,free-m
+42:rs:36:xi:73:sm:18:td,Gas sensor,183.111.169.205,vnp,workplace3,free-m
+43:is:92:tn:64:xf:36:xf,Gas sensor,201.219.181.107,vnp,workplace1,free-m
+43:lj:77:dc:39:gw:35:sk,Gas sensor,85.17.209.180,vnp,workplace4,free-m
+44:dp:59:ao:13:cy:73:mw,Gas sensor,41.160.223.252,vnp,workplace3,free-m
+44:dv:77:rn:71:we,H2S,203.71.220.140,vnp,workplace_1,free-m
+44:ed:69:yz:87:gy,H2S,41.0.181.251,vnp,workplace_1,free-m
+44:ga:20:pl:83:bm:26:qc,Gas sensor,2.139.222.95,vnp,workplace2,free-m
+45:cq:14:do:59:hi:79:hr,Gas sensor,202.167.248.186,vnp,workplace4,free-m
+45:fr:39:sw:73:by:75:dt,Gas sensor,91.143.199.80,vnp,workplace1,free-m
+45:hq:21:dy:68:rw:21:lj,Gas sensor,113.255.49.49,vnp,workplace1,free-m
+45:pv:41:vb:31:pg:67:cv,Gas sensor,41.160.223.252,vnp,workplace1,free-m
+45:vl:11:bp:61:jj:35:ss,Gas sensor,41.0.181.251,vnp,workplace4,free-m
+46:ez:43:pv:29:gz:36:xo,Gas sensor,183.111.169.205,vnp,workplace2,free-m
+46:gv:30:nt:22:vp:22:ut,Gas sensor,201.219.181.107,vnp,workplace3,free-m
+47:eu:24:nz:73:xt:53:wo,Gas sensor,41.160.223.252,vnp,workplace4,free-m
+47:fw:36:ph:47:on:28:co,Gas sensor,118.97.137.150,vnp,workplace1,free-m
+47:gj:91:hy:96:vo:45:iu,Gas sensor,41.160.223.252,vnp,workplace4,free-m
+47:qa:53:ec:43:en:42:sm,Gas sensor,118.97.137.150,vnp,workplace1,free-m
+48:ic:12:xc:97:hq:64:tq,Gas sensor,183.111.169.205,vnp,workplace1,free-m
+48:jz:13:eq:94:yy:62:yi,Gas sensor,201.219.181.107,vnp,workplace4,free-m
+49:rj:99:lp:71:hd:86:rt,Gas sensor,104.236.220.70,vnp,workplace2,free-m
+49:vr:19:fn:15:op:82:ss,Gas sensor,41.160.223.252,vnp,workplace1,free-m
+50:dy:54:he:78:me,H2S,104.236.220.70,vnp,workplace_1,free-m
+51:fr:39:pf:15:ro:78:fm,Gas sensor,113.255.49.49,vnp,workplace4,free-m
+52:dc:23:iq:98:xe:65:ee,Gas sensor,91.143.199.80,vnp,workplace2,free-m
+52:lw:75:qv:37:pw,H2S,172.16.116.4,tam,workplace_2,tam
+52:po:10:bm:42:sl:30:cl,Gas sensor,2.139.222.95,vnp,workplace2,free-m
+52:xm:45:gv:42:pe:89:kr,Gas sensor,41.160.223.252,vnp,workplace3,free-m
+52:yu:90:lo:74:vp:37:xg,Gas sensor,2.139.222.95,vnp,workplace2,free-m
+53:ae:19:rd:56:sa:36:ss,Gas sensor,91.143.199.80,vnp,workplace1,free-m
+53:fz:30:if:33:vz:21:eh,Gas sensor,113.255.49.49,vnp,workplace4,free-m
+53:gq:62:hs:92:tj:96:gy,Gas sensor,202.167.248.186,vnp,workplace4,free-m
+53:zr:34:lh:23:ry:40:od,Gas sensor,2.139.222.95,vnp,workplace1,free-m
+54:qw:85:cu:20:ld,H2S,2.139.222.95,vnp,workplace_1,free-m
+54:th:20:tp:48:uj:93:vk,Gas sensor,2.139.222.95,vnp,workplace2,free-m
+54:vj:25:to:95:zn:83:mj,Gas sensor,41.160.223.252,vnp,workplace2,free-m
+55:fg:85:ms:61:hz:68:fp,Gas sensor,183.111.169.205,vnp,workplace2,free-m
+56:ir:50:ne:83:uo:90:xr,Gas sensor,118.97.137.150,vnp,workplace2,free-m
+56:ou:92:eg:37:xk:67:fv,Gas sensor,201.219.181.107,vnp,workplace4,free-m
+56:vl:73:ny:14:rn:95:dm,Gas sensor,104.236.220.70,vnp,workplace2,free-m
+57:vy:27:rq:51:jg,H2S,172.16.116.2,tam,workplace_2,tam
+58:ag:28:bl:28:vk:21:zd,Gas sensor,118.97.137.150,vnp,workplace3,free-m
+58:jt:30:na:84:ur:25:jg,Gas sensor,41.160.223.252,vnp,workplace1,free-m
+58:zv:12:lg:75:pu:93:nd,Gas sensor,192.99.54.41,vnp,workplace4,free-m
+59:hf:22:pa:26:dh:93:kv,Gas sensor,91.143.199.80,vnp,workplace3,free-m
+59:lz:94:fh:27:ds:15:il,Gas sensor,202.167.248.186,vnp,workplace1,free-m
+59:oa:79:on:25:kd:88:qk,Gas sensor,192.99.54.41,vnp,workplace3,free-m
+59:py:27:nu:53:oz:53:ez,Gas sensor,115.159.5.247,vnp,workplace4,free-m
+59:rr:35:xb:24:ff:90:mh,Gas sensor,113.255.49.49,vnp,workplace2,free-m
+59:vy:81:tt:51:bz:59:db,Gas sensor,203.71.220.140,vnp,workplace2,free-m
+5c:f9:dd:47:7f:05,pir,172.16.0.108,duy,room,surveiller
+60:cc:29:rh:96:cw:75:tt,Gas sensor,192.99.54.41,vnp,workplace1,free-m
+60:en:19:no:21:qn:45:yz,Gas sensor,113.255.49.49,vnp,workplace3,free-m
+60:om:59:mw:25:gd:26:hx,Gas sensor,203.71.220.140,vnp,workplace1,free-m
+60:rv:74:ou:60:oq:77:kb,Gas sensor,2.139.222.95,vnp,workplace4,free-m
+61:ej:42:le:54:wx:69:se,Gas sensor,41.0.181.251,vnp,workplace1,free-m
+61:js:53:tl:42:sg:68:kj,Gas sensor,41.0.181.251,vnp,workplace2,free-m
+61:nu:31:xd:96:cy:35:rt,Gas sensor,41.160.223.252,vnp,workplace1,free-m
+61:ya:79:gr:69:vi,H2S,104.236.220.70,vnp,workplace_1,free-m
+62:ag:46:jg:77:ws:46:ev,Gas sensor,203.71.220.140,vnp,workplace1,free-m
+62:ah:97:wi:22:oi:74:ot,Gas sensor,192.99.54.41,vnp,workplace2,free-m
+62:bw:99:rm:53:tg:88:iw,Gas sensor,201.219.181.107,vnp,workplace1,free-m
+62:lt:72:lv:26:ys:65:mo,Gas sensor,41.160.223.252,vnp,workplace3,free-m
+62:uk:78:oj:56:ye:30:lx,Gas sensor,113.255.49.49,vnp,workplace1,free-m
+62:vr:87:pm:27:ob:83:sf,Gas sensor,113.255.49.49,vnp,workplace2,free-m
+63:kj:89:vp:29:xe,H2S,202.167.248.186,vnp,workplace_1,free-m
+64:nu:33:vo:78:yi:98:rq,Gas sensor,85.17.209.180,vnp,workplace4,free-m
+64:yr:94:hw:35:cq:65:va,Gas sensor,183.111.169.205,vnp,workplace2,free-m
+65:fd:41:do:60:kk:40:ot,Gas sensor,115.159.5.247,vnp,workplace2,free-m
+65:kt:85:ha:59:cs:26:jm,Gas sensor,85.17.209.180,vnp,workplace4,free-m
+65:mg:42:zn:84:uk:85:cm,Gas sensor,91.143.199.80,vnp,workplace2,free-m
+65:up:52:sz:45:mi:79:ms,Gas sensor,41.160.223.252,vnp,workplace1,free-m
+65:yw:34:od:88:bv:30:lx,Gas sensor,115.159.5.247,vnp,workplace1,free-m
+66:vg:67:ok:32:wi:38:yd,Gas sensor,2.139.222.95,vnp,workplace2,free-m
+66:zv:13:vy:57:oy:61:nh,Gas sensor,91.143.199.80,vnp,workplace3,free-m
+67:zl:36:vj:57:hs:90:dc,Gas sensor,91.143.199.80,vnp,workplace2,free-m
+68:dx:88:dr:55:bi:95:mu,Gas sensor,118.97.137.150,vnp,workplace2,free-m
+68:ji:64:hp:13:wk:74:yq,Gas sensor,41.160.223.252,vnp,workplace1,free-m
+68:zj:81:lv:69:dd:69:rg,Gas sensor,41.160.223.252,vnp,workplace3,free-m
+69:hg:96:ts:88:ck:12:pv,Gas sensor,118.97.137.150,vnp,workplace3,free-m
+69:ro:14:bk:95:jy:34:gn,Gas sensor,183.111.169.205,vnp,workplace2,free-m
+70:aa:48:zc:28:te:76:zb,Gas sensor,41.160.223.252,vnp,workplace1,free-m
+70:hy:43:gf:16:jj:92:uy,Gas sensor,85.17.209.180,vnp,workplace1,free-m
+70:ok:59:ax:73:mv:98:ss,Gas sensor,2.139.222.95,vnp,workplace3,free-m
+70:pa:59:nn:61:qt:25:uj,Gas sensor,2.139.222.95,vnp,workplace1,free-m
+70:tn:29:lp:65:pa:80:gk,Gas sensor,202.167.248.186,vnp,workplace1,free-m
+70:uy:34:lg:98:nq:82:ec,Gas sensor,192.99.54.41,vnp,workplace1,free-m
+71:dt:82:ud:57:nb:52:xk,Gas sensor,113.255.49.49,vnp,workplace4,free-m
+71:hu:86:nu:92:gg:84:jr,Gas sensor,202.167.248.186,vnp,workplace1,free-m
+71:kd:74:au:24:vi,H2S,85.17.209.180,vnp,workplace_1,free-m
+71:xl:12:pq:18:vw:38:wa,Gas sensor,203.71.220.140,vnp,workplace1,free-m
+72:fg:23:fs:83:bw:78:zg,Gas sensor,202.167.248.186,vnp,workplace4,free-m
+72:ke:94:vo:87:xj:49:xx,Gas sensor,104.236.220.70,vnp,workplace2,free-m
+74:sd:71:fk:20:ew:93:hd,Gas sensor,41.160.223.252,vnp,workplace4,free-m
+74:xu:47:ru:31:mi:96:oq,Gas sensor,113.255.49.49,vnp,workplace4,free-m
+75:fv:95:gb:89:dg,H2S,183.111.169.205,vnp,workplace_1,free-m
+75:ii:79:cp:77:ub:70:dt,Gas sensor,118.97.137.150,vnp,workplace2,free-m
+75:lk:57:kq:60:ue,H2S,203.71.220.140,vnp,workplace_1,free-m
+75:lz:39:vs:81:tr:57:lj,Gas sensor,104.236.220.70,vnp,workplace2,free-m
+75:qr:61:ej:64:ia:52:xy,Gas sensor,104.236.220.70,vnp,workplace1,free-m
+75:tz:48:lo:96:iq:88:ab,Gas sensor,201.219.181.107,vnp,workplace1,free-m
+75:uj:48:kk:73:fm:28:he,Gas sensor,113.255.49.49,vnp,workplace3,free-m
+76:ae:32:lw:47:he:91:zs,Gas sensor,202.167.248.186,vnp,workplace3,free-m
+76:ax:80:hb:47:xw:96:ow,Gas sensor,41.160.223.252,vnp,workplace1,free-m
+76:hs:69:tk:81:oc:38:ix,Gas sensor,203.71.220.140,vnp,workplace1,free-m
+76:qk:51:gl:53:ya:16:an,Gas sensor,115.159.5.247,vnp,workplace2,free-m
+77:bt:49:fp:91:cq:18:ja,Gas sensor,41.0.181.251,vnp,workplace3,free-m
+77:cz:57:ht:75:if:41:tm,Gas sensor,91.143.199.80,vnp,workplace3,free-m
+77:em:65:cr:65:zl,H2S,172.16.116.1,tam,workplace_2,tam
+77:jt:69:ir:73:wx:39:bn,Gas sensor,91.143.199.80,vnp,workplace3,free-m
+77:ud:62:of:77:xm:73:mg,Gas sensor,203.71.220.140,vnp,workplace3,free-m
+78:qh:10:aa:87:xt:80:qf,Gas sensor,85.17.209.180,vnp,workplace4,free-m
+79:bs:48:gf:42:fp:38:uh,Gas sensor,85.17.209.180,vnp,workplace2,free-m
+79:dy:73:lo:14:kv:70:cq,Gas sensor,113.255.49.49,vnp,workplace4,free-m
+79:nq:51:xn:16:oq:18:du,Gas sensor,183.111.169.205,vnp,workplace3,free-m
+79:th:46:za:20:ji:32:ln,Gas sensor,192.99.54.41,vnp,workplace3,free-m
+80:cq:24:fp:73:wh:64:fc,Gas sensor,115.159.5.247,vnp,workplace4,free-m
+81:an:14:rz:77:qd:55:qs,Gas sensor,115.159.5.247,vnp,workplace4,free-m
+81:eh:54:fd:35:qw:86:ki,Gas sensor,41.160.223.252,vnp,workplace2,free-m
+81:hw:57:dn:52:sq:47:ae,Gas sensor,104.236.220.70,vnp,workplace4,free-m
+81:vh:20:he:19:wc:84:xc,Gas sensor,118.97.137.150,vnp,workplace3,free-m
+82:fv:46:vk:61:ec:84:kc,Gas sensor,41.0.181.251,vnp,workplace1,free-m
+83:fa:84:ed:82:tz:71:au,Gas sensor,91.143.199.80,vnp,workplace2,free-m
+83:rr:82:iy:42:al:76:ll,Gas sensor,183.111.169.205,vnp,workplace4,free-m
+84:ag:44:ui:62:tv:76:er,Gas sensor,85.17.209.180,vnp,workplace4,free-m
+84:dj:38:qk:92:jj:29:sl,Gas sensor,115.159.5.247,vnp,workplace1,free-m
+84:lz:50:jz:56:pi:49:kg,Gas sensor,104.236.220.70,vnp,workplace4,free-m
+85:as:40:kc:89:bh,H2S,172.16.116.3,tam,workplace_2,tam
+85:nm:41:fn:37:vu:22:dl,Gas sensor,85.17.209.180,vnp,workplace1,free-m
+86:fm:34:tq:39:om:69:ki,Gas sensor,192.99.54.41,vnp,workplace2,free-m
+86:mj:65:lj:35:eo:59:tf,Gas sensor,104.236.220.70,vnp,workplace2,free-m
+86:vn:42:er:73:ts:51:qv,Gas sensor,201.219.181.107,vnp,workplace3,free-m
+87:tm:45:sm:65:of:46:nk,Gas sensor,115.159.5.247,vnp,workplace3,free-m
+88:gu:59:ej:14:pg:90:bp,Gas sensor,104.236.220.70,vnp,workplace2,free-m
+88:qa:87:zx:61:vz,H2S,183.111.169.205,vnp,workplace_1,free-m
+89:fi:92:xd:15:ii:76:ms,Gas sensor,41.0.181.251,vnp,workplace3,free-m
+89:jw:39:uj:29:bd:58:ab,Gas sensor,202.167.248.186,vnp,workplace3,free-m
+89:qg:17:de:30:rx:11:vt,Gas sensor,203.71.220.140,vnp,workplace3,free-m
+90:lc:11:ct:67:sb,H2S,172.16.115.1,vnp,workplace2,free-m
+91:cu:22:sv:28:mg:11:jx,Gas sensor,113.255.49.49,vnp,workplace1,free-m
+92:ag:42:fl:78:wt:89:xb,Gas sensor,202.167.248.186,vnp,workplace1,free-m
+92:gn:47:qy:63:zq:47:di,Gas sensor,201.219.181.107,vnp,workplace2,free-m
+92:tw:68:lr:46:wu:32:og,Gas sensor,115.159.5.247,vnp,workplace4,free-m
+93:pz:75:fu:16:dn:95:ls,Gas sensor,91.143.199.80,vnp,workplace2,free-m
+93:st:19:un:99:ri:81:mn,Gas sensor,203.71.220.140,vnp,workplace4,free-m
+94:kq:43:lh:73:ib:25:fy,Gas sensor,118.97.137.150,vnp,workplace1,free-m
+94:sv:29:we:62:yz:96:sh,Gas sensor,41.0.181.251,vnp,workplace3,free-m
+94:uy:27:vy:99:pf:85:qh,Gas sensor,203.71.220.140,vnp,workplace2,free-m
+94:wi:25:ph:97:st:79:zi,Gas sensor,91.143.199.80,vnp,workplace1,free-m
+94:xc:81:bx:54:rp:39:sk,Gas sensor,115.159.5.247,vnp,workplace2,free-m
+95:pz:92:bk:26:gc:26:wo,Gas sensor,85.17.209.180,vnp,workplace1,free-m
+95:zy:68:ih:23:gv:29:uo,Gas sensor,202.167.248.186,vnp,workplace3,free-m
+96:cl:66:dw:97:oq:85:mg,Gas sensor,113.255.49.49,vnp,workplace4,free-m
+97:bu:16:lu:85:hq:28:lm,Gas sensor,201.219.181.107,vnp,workplace4,free-m
+97:pd:46:gd:45:sp:89:hw,Gas sensor,183.111.169.205,vnp,workplace4,free-m
+98:pc:92:md:21:mn:20:lq,Gas sensor,113.255.49.49,vnp,workplace3,free-m
+99:yf:79:eg:74:bh:27:ys,Gas sensor,85.17.209.180,vnp,workplace1,free-m
