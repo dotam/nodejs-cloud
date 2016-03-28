@@ -1,4 +1,4 @@
-var host = 'http://app3-demo.openshift.rasia/';
+var host = 'http://app3-demo.openshift.rasia';
 
 app.controller('sensorCtrl', ['$scope', '$rootScope', '$http', 'DTOptionsBuilder', 'DTColumnBuilder', '$compile',
     function($scope, $rootScope, $http, DTOptionsBuilder, DTColumnBuilder, $compile) {
