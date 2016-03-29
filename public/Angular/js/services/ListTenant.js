@@ -1,4 +1,4 @@
-var host = 'http://localhost:8080';
+var host = 'http://app3-demo.openshift.rasia';
 
 app.factory('tenant', ['$http', function($http) {
 	console.log(tenant);

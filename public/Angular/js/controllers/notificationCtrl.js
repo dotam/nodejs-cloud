@@ -1,4 +1,4 @@
-var host = 'http://localhost:8080'
+var host = 'http://app3-demo.openshift.rasia'
 app.controller('notificationCtrl', ['$scope','$interval', '$http','$filter', 'DTOptionsBuilder', 'DTColumnBuilder', function($scope,$interval, $http,$filter, DTOptionsBuilder, DTColumnBuilder) {
 
 
