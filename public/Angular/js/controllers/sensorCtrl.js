@@ -1,7 +1,7 @@
 var host = 'http://localhost:8080';
 
-app.controller('sensorCtrl', ['$scope', '$rootScope', '$http', 'DTOptionsBuilder', 'DTColumnBuilder', '$compile',
-    function($scope, $rootScope, $http, DTOptionsBuilder, DTColumnBuilder, $compile) {
+app.controller('sensorCtrl', ['$scope', '$interval', '$rootScope', '$http', 'DTOptionsBuilder', 'DTColumnBuilder', '$compile',
+    function($scope, $interval, $rootScope, $http, DTOptionsBuilder, DTColumnBuilder, $compile) {
 
 
         $scope.dtOptions = DTOptionsBuilder.fromSource(host + "/api/getSensorByTenantID/4")
@@ -51,21 +51,23 @@ app.controller('sensorCtrl', ['$scope', '$rootScope', '$http', 'DTOptionsBuilder
                 } else {
                     icon.removeClass('glyphicon-plus-sign').addClass('glyphicon-minus-sign');
                     row.child($compile('<div tmpl class="clearfix"></div>')(scope)).show();
-                    childInfoDetail(row.data(),scope);
-                    childHistory(row.data(),scope);
+                    childInfoDetail(row.data(), scope);
+                    childHistory(row.data(), scope);
+
                     tr.addClass('shown');
+                    row.data() = {};
                 }
             });
         }
 
-        var childInfoDetail = function(data,scope) {
+        var childInfoDetail = function(data, scope) {
             var sensorID = data.sensorID;
             $http.get('/api/getDetailSensor/' + sensorID).then(function(resutl) {
                 scope.sensorDetail = resutl.data.data[0];
             });
         }
 
-        var childHistory = function(data,scope) {
+        var childHistory = function(data, scope) {
             var sensorID = data.sensorID;
             $http.get('/api/getTopFiveHistory/' + sensorID).then(function(resutl) {
                 scope.topFive = resutl.data.data;
@@ -78,6 +80,29 @@ app.controller('sensorCtrl', ['$scope', '$rootScope', '$http', 'DTOptionsBuilder
             });
             saveAs(blob, "Report.xls");
         }
+
+        var stop;
+        $scope.reLoad = function() {
+            stop = $interval(reloadData, $scope.iInterval * 1000);
+        }
+
+        function reloadData() {
+            $scope.dtOptions = DTOptionsBuilder
+                .fromSource(host + "/api/getSensorByTenantID/4").withDataProp('data');
+            $scope.dtInstance.reloadData();
+        }
+
+        $scope.stopLoad = function() {
+            if (angular.isDefined(stop)) {
+                $interval.cancel(stop);
+                stop = undefined;
+            }
+        };
+
+        $scope.$on('$destroy', function() {
+            // Make sure that the interval is destroyed too
+            $scope.stopLoad();
+        });
     }
 ]);
 
