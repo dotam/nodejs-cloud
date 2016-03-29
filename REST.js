@@ -53,7 +53,7 @@ REST_ROUTER.prototype.handleRoutes = function(router,connection,md5) {
     // });
 
     router.get("/getSensorByTenantID/:tenantID",function(req,res){
-        var query = "SELECT sensorID,sensorMAC,sensorType,sensorIP,h2s,temp,heartbeat FROM ?? WHERE ??=?";
+        var query = "SELECT sensorID,sensorMAC,sensorType,sensorIP,h2s,temp,heartbeat FROM ?? WHERE ??=? ORDER BY lastUpdated DESC";
         var table = ["sensor","tenantID",req.params.tenantID];
         query = mysql.format(query,table);
         connection.query(query,function(err,rows){
